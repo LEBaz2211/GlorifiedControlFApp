@@ -1,0 +1,5 @@
+openai
+pinecone-client
+pdfminer.six
+Flask
+python-dotenv
